@@ -1,24 +1,19 @@
 # Ping Tang (汤平)
 
-![Profile](https://img.shields.io/badge/Position-Associate%20Professor-blue) ![Email](https://img.shields.io/badge/Email-ping.tang%40njust.edu.cn-green) ![Location](https://img.shields.io/badge/Location-Nanjing%2C%20China-orange)
+<img src="http://pingtangnjust.github.io/images/profile.jpg" alt="Profile Picture" style="width:800px; border-radius:50%; float:right; margin-left:20px;">
+
+![Position](https://img.shields.io/badge/Position-Associate%20Professor-blue) ![Email](https://img.shields.io/badge/Email-ping.tang%40njust.edu.cn-green) ![Location](https://img.shields.io/badge/Location-Nanjing%2C%20China-orange)
 
 欢迎来到我的GitHub个人主页！我是南京理工大学外国语学院副教授，主要研究领域包括病理语言学、实验语音学、心理语言学，专注于人工耳蜗植入儿童的语音发展、汉语二语学习者的声调习得以及情感韵律语音等方面。
 
-Welcome to my GitHub profile! I am an Associate Professor at the School of Foreign Studies, Nanjing University of Science and Technology. My research focuses on pathological linguistics, experimental phonetics, psycholinguistics, specifically exploring speech development in children with cochlear implants, tone acquisition in L2 Mandarin learners, and emotional prosody.
+Welcome to my GitHub profile! I am an Associate Professor at the School of Foreign Studies, Nanjing University of Science and Technology. My research focuses on language acquisition, phonetics, and psycholinguistics, specifically exploring speech perception and productions from children with hearing impairment.
 
 ## 关于我 / About Me
 - **姓名 / Name**: Ping Tang (汤平)
 - **性别 / Gender**: Male (男)
-- **出生日期 / Date of Birth**: 1990/05/23
 - **邮箱 / Email**: ping.tang@njust.edu.cn
 - **机构 / Affiliation**: Nanjing University of Science and Technology, School of Foreign Studies
 - **研究专长 / Research Interests**: Psycholinguistics, Hearing and Language Rehabilitation, Audiology, Phonetics, Language Development (心理语言学、听力与语言康复、听力学、语音学、语言发展)
-- **学术兼职 / Academic Affiliations**:
-  - Executive Director, Phonetics Teaching Research Committee, China English-Chinese Comparative Studies Association
-  - Director, Psycholinguistics Committee, China English-Chinese Comparative Studies Association
-  - Member, International Speech Communication Association
-  - Member, Australian Linguistic Society
-  - Member, Phonetics Branch, China Linguistics Society
 
 ## 教育经历 / Education
 - **2015/10 - 2018/10**: Ph.D. in Linguistics, Macquarie University, Faculty of Human Sciences (Supervisor: Katherine Demuth; Thesis awarded Vice-Chancellor's Commendation for Academic Excellence and David Hall Award for Outstanding PhD Thesis)
@@ -34,6 +29,13 @@ Welcome to my GitHub profile! I am an Associate Professor at the School of Forei
 - **2020 - Present**: Director of the Undergraduate Program in Linguistics, Nanjing University of Science and Technology (Founded and approved the Linguistics major in 2021)
 - **2020 - Present**: Leader of the “Speech-Language Pathology” Track, Laboratory of Intelligent Processing and Application of Language Information (Key Laboratory of the Ministry of Industry and Information Technology)
 - Deputy Director, English Department, responsible for graduation theses and undergraduate research training
+
+- **学术兼职 / Academic Affiliations**:
+  - Executive Director, Phonetics Teaching Research Committee, China English-Chinese Comparative Studies Association
+  - Director, Psycholinguistics Committee, China English-Chinese Comparative Studies Association
+  - Member, International Speech Communication Association
+  - Member, Australian Linguistic Society
+  - Member, Phonetics Branch, China Linguistics Society
 
 ## 科研项目 / Grants
 - **2024**: Industry-Academia Joint Project: “The Development of an Auditory-Training Program: Cochlear Auditory Training” (PI; CNY 144,000)
@@ -100,8 +102,6 @@ Welcome to my GitHub profile! I am an Associate Professor at the School of Forei
 
 ## 联系方式 / Contact
 - Email: ping.tang@njust.edu.cn
-- GitHub: [Your GitHub Username] (替换为实际用户名)
-- LinkedIn: [Your LinkedIn] (如果有)
 
 感谢访问！如果您对我的研究感兴趣，欢迎联系。
 
