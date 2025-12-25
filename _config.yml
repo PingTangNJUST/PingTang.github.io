@@ -2,18 +2,19 @@
 title: "Ping Tang"
 name: "Ping Tang"
 description: "Associate Professor | Nanjing University of Science and Technology"
+url: "https://pingtangnjust.github.io"
 
 # 个人信息
 author:
-  name: "Ping Tang"
-  avatar: "profile.png"  # 稍后上传头像
-  bio: "语音学研究者，专注于语音与健康的交叉研究"
-  location: "北京，中国"
-  employer: "XX大学"
-  email: "zhangsan@example.com"
-  
-  # 社交链接（不需要的可以删除或留空）
-  github: "你的GitHub用户名"
-  googlescholar: "https://scholar.google.com/citations?user=你的ID"
-  orcid: "你的ORCID"
-  twitter: # 留空表示不显示
+  name: "Ping Tang (汤平)"
+  avatar: "profile.jpg"
+  bio: "Associate Professor @ NJUST<br>Ph.D. in Linguistics, Macquarie University"
+  location: "Nanjing, China"
+  employer: "Nanjing University of Science and Technology"
+  email: "ping.tang@njust.edu.cn"
+
+  # 社交链接（不需要的可以删除整行）
+  github: "PingTangNJUST"
+  googlescholar: "https://scholar.google.com/citations?user=IpMdcNcAAAAJ&hl=en"
+  orcid: "0000-0003-2637-3932"
+  # researchgate:researchgate.net/profile/Ping-Tang-2?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19
