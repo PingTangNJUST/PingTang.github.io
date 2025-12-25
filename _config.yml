@@ -3,18 +3,45 @@ title: "Ping Tang"
 name: "Ping Tang"
 description: "Associate Professor | Nanjing University of Science and Technology"
 url: "https://pingtangnjust.github.io"
+baseurl: ""
+repository: "PingTangNJUST/pingtangnjust.github.io"
 
-# 个人信息
+# 主题设置
+minimal_mistakes_skin: "default"
+locale: "en-US"
+breadcrumbs: false
+words_per_minute: 200
+
+# 作者信息
 author:
-  name: "Ping Tang (汤平)"
-  avatar: "profile.jpg"
+  name: "Ping Tang (唐平)"
+  avatar: "images/profile.jpg"
   bio: "Associate Professor @ NJUST<br>Ph.D. in Linguistics, Macquarie University"
   location: "Nanjing, China"
-  employer: "Nanjing University of Science and Technology"
   email: "ping.tang@njust.edu.cn"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:ping.tang@njust.edu.cn"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/PingTangNJUST"
 
-  # 社交链接（不需要的可以删除整行）
-  github: "PingTangNJUST"
-  googlescholar: "https://scholar.google.com/citations?user=IpMdcNcAAAAJ&hl=en"
-  orcid: "0000-0003-2637-3932"
-  # researchgate:researchgate.net/profile/Ping-Tang-2?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19
+# 页面默认设置
+defaults:
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+# 插件
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
